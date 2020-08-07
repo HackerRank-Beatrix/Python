@@ -1,5 +1,6 @@
 #https://www.hackerrank.com/challenges/words-score/problem
 
+
 def is_vowel(letter):
     return letter in ['a', 'e', 'i', 'o', 'u', 'y']
 
